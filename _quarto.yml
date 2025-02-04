@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "websitetake3.github.io"
   navbar:
