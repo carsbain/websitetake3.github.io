@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "websitetake3.github.io",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my resume."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "ABOUT ME"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "carson’s website",
+    "section": "",
+    "text": "Welcome to my website! This is some information about me and I have linked some helpful ways to contact me."
   }
 ]

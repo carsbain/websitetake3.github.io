@@ -1,0 +1,8 @@
+---
+title: "Resume"
+author: "Carson Bainbridge"
+About:
+  template: broadside
+---
+
+This is my resume.

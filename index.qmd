@@ -1,11 +1,17 @@
 ---
-title: "websitetake3.github.io"
+title: "carson's website"
+image: headshot .jpg
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/carson-bainbridge-7a3a12310 
+    - text: Email 
+      href: carsonjessica812@hotmail.com
 ---
 
-This is a Quarto website.
+Welcome to my website! This is some information about me and I have linked some helpful ways to contact me.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/IMG_0310.JPEG)

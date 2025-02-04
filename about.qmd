@@ -1,9 +1,6 @@
 ---
 title: "About"
+author: "Carson"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+ABOUT ME
