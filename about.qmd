@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: "Carson"
+author: "Carson Bainbridge"
 ---
 
 ABOUT ME
