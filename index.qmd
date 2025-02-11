@@ -12,6 +12,9 @@ about:
       href: mailto:carsonjessica812@hotmail.com 
     - text: GitHub
       href: https://github.com/carsbain
+footer:
+    left: "© 2025 My Quarto Website"
+    right: "Powered by Quarto"
 ---
 
 Welcome to my website! This is some information about me and I have linked some helpful ways to contact me.
