@@ -1,0 +1,8 @@
+---
+title: " CSU Projects"
+author: "Carson Bainbridge"
+---
+
+QUANTITATIVE REASONING FOR ECOSYSTEM SCIENCE\
+
+In the Spring of 2025 I took a class Quantative Reasoning class based in R. I learned how do some basic coding, and created this website. I also learned how to use R for data science.
