@@ -7,11 +7,11 @@ about:
   image-width: 15em
   links: 
     - text: LinkedIn
-      href: "https://www.linkedin.com/in/carson-bainbridge-7a3a12310""
+      href: https://www.linkedin.com/in/carson-bainbridge-7a3a12310/
     - text: Email 
       href: mailto:carsonjessica812@hotmail.com
     - text: GitHub
-      href: https://github.com/carsbain
+      href: https://github.com/carsbain/
 ---
 
 Welcome to my website! This is some information about me and I have linked some helpful ways to contact me.

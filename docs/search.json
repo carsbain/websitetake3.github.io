@@ -12,5 +12,19 @@
     "title": "Welcome to Carson’s Website",
     "section": "",
     "text": "Welcome to my website! This is some information about me and I have linked some helpful ways to contact me."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ABOUT ME\nLinkedIn\nGitHub\nI am an undergraduate student who is passionate about the environment and making a difference in climate change research. I hope to enter a career field where I can see a change in either the behavior of individuals or the behavior of the environment."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "QUANTITATIVE REASONING FOR ECOSYSTEM SCIENCE\n\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I learned how do some basic coding, and created this website. I also learned how to use R for data science."
   }
 ]
