@@ -15,8 +15,10 @@ website:
 format:
   html:
     theme: cosmo
+    mainfont: times new roman
     css: styles.css
     toc: true
+    toc-location: right
 
 editor: visual
 
